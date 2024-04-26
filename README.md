@@ -15,9 +15,9 @@ List the key features or requirements of the assignment:
 Prerequisites
 
 List any prerequisites or requirements for setting up the project:
-    A text editor (Visual Studio Code)
-    Deployment Link (Vercel.com)
-    Basic HTML and CSS
+   1) A text editor (Visual Studio Code)
+   2) Deployment Link (Vercel.com)
+   3) Basic HTML and CSS
 
 Project live
    1) Deploy link - https://simplotel-assignment-sable.vercel.app/
