@@ -20,6 +20,5 @@ List any prerequisites or requirements for setting up the project:
     Basic HTML and CSS
 
 Project live
-
-Deploy link - https://simplotel-assignment-sable.vercel.app/
-GitHub Link - https://github.com/parikhasharma/simplotel-assignment
+   1) Deploy link - https://simplotel-assignment-sable.vercel.app/
+   2) GitHub Link - https://github.com/parikhasharma/simplotel-assignment
