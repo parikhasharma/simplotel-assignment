@@ -1,10 +1,6 @@
 Simplotel HTML & CSS Assignment
    
-Table of Contents
-    Project Overview
-    Features
-    Prerequisites
-    Project Live
+
 
 Project Overview
     Creating a responsive HTML and CSS assignment with media queries for the landing page.
@@ -12,9 +8,9 @@ Project Overview
 Features
 
 List the key features or requirements of the assignment:
-    Create a responsive landing page.
-    Style the page using HTML and CSS.
-    Use media queries for responsiveness.
+   1) Create a responsive landing page.
+   2) Style the page using HTML and CSS.
+   3) Use media queries for responsiveness.
 
 Prerequisites
 
